@@ -1,7 +1,6 @@
 //USER CONFIGURATION SETTINGS
 
 // 1. BLYNK SETTINGS (From Blynk Console)
-// ------------------------------------------
 #define BLYNK_TEMPLATE_ID   "TMPL6n3U3mg8I"      // Replace with your Template ID
 #define BLYNK_TEMPLATE_NAME "SmartHome"          // Replace with your Device Name
 #define BLYNK_AUTH_TOKEN    "Your_Blynk_Token"   // Replace with your Auth Token
